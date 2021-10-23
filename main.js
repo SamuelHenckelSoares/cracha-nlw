@@ -29,5 +29,4 @@ function getGitHubProfileInfos() {
       userID.textContent = data.login
     })
 }
-
 getGitHubProfileInfos()
